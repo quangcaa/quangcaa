@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**quangcaa/quangcaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quangcaa&theme=radical)
 
-Here are some ideas to get you started:
+<a href="https://github.com/quangcaa/auto-chess-fe-2">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=auto-chess-fe-2&theme=radical" />
+</a>    
+<a href="https://github.com/quangcaa/auto-chess-be">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=auto-chess-be&theme=merko" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/quangcaa/threads">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=threads&theme=gruvbox" />
+</a>    
+<a href="https://github.com/quangcaa/oxford-dictionary">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=oxford-dictionary&theme=dark" />
+</a>
+
+<a href="https://github.com/quangcaa/tic-tac-toe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=tic-tac-toe&theme=dark" />
+</a>    
+<a href="https://github.com/quangcaa/cassava-classification-sentinel">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangcaa&repo=cassava-classification-sentinel&theme=onedark" />
+</a>
